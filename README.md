@@ -1,8 +1,6 @@
-# Mgrs
+# MGRS (alpha-release)
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/mgrs`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Military Grid Referencing System (MGRS). The military grid reference system (MGRS) is the geocoordinate standard used by NATO militaries for locating points on the earth. The MGRS is derived from the Universal Transverse Mercator (UTM) grid system and the universal polar stereographic (UPS) grid system, but uses a different labeling convention. The MGRS is used for the entire earth. This allows you to use MGRS directly and easily convert between lat/long and grid based location data. You can specify how large of gid squares you want to use and is ideal for map overlaying, gid concentrations, or grid based computing. Grid sizes are availabe from 1m to 10km.
 
 ## Installation
 
